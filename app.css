@@ -183,8 +183,8 @@ body {
 }
 
 .weather-icon img {
-  width: 70px;
-  height: 70px;
+  width: 60px;
+  height: 60px;
 }
 
 .temperature-value p {
@@ -279,7 +279,7 @@ body {
   text-decoration: none;
   font-size: var(--fses);
   color: var(--fg);
-  margin-top: 1vh;
+  margin-top: 2vh;
   padding: 8px 12px;
   border-radius: 5px;
   font-weight: bold;
