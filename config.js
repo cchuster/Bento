@@ -118,8 +118,8 @@ const CONFIG = {
         link: 'https://www.reddit.com/',
       },
       {
-        name: 'FMovies',
-        link: 'https://fmovies.co/',
+        name: 'Look Movie',
+        link: 'https://lookmovie2.to/',
       },
     ],
   },
