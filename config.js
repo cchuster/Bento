@@ -100,8 +100,8 @@ const CONFIG = {
         link: 'https://www.cpua.org/',
       },
       {
-        name: 'Gainsboro',
-        link: 'https://www.gainsboro.tech/',
+        name: 'Arlite Research',
+        link: 'https://arliteresearch.com/',
       },
     ],
     secondList: [
