@@ -100,8 +100,8 @@ const CONFIG = {
         link: 'https://www.cpua.org/',
       },
       {
-        name: 'Arlite Research',
-        link: 'https://arliteresearch.com/',
+        name: 'Gemini',
+        link: 'https://www.gemini.com/',
       },
     ],
     secondList: [
