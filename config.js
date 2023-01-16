@@ -121,6 +121,10 @@ const CONFIG = {
         name: 'Look Movie',
         link: 'https://lookmovie2.to/',
       },
+      {
+        name: 'USTV',
+        link: 'https://ustv247.tv/',
+      },
     ],
   },
 };
